@@ -1,5 +1,6 @@
-import { Button } from '../ui/moving-border';
+import { Link } from 'react-router-dom';
 import Badge from '../Badge';
+import { Button } from '../ui/moving-border';
 
 const CTASection = ({ setPage }) => {
   return (
@@ -27,13 +28,13 @@ const CTASection = ({ setPage }) => {
           </div>
 
           <div className="flex-shrink-0 flex items-center justify-start md:justify-end">
-            <button
-              onClick={() => setPage('dashboard')}
+            <Link
+              to="/home"
               className="w-full md:w-auto bg-zinc-900 dark:bg-zinc-100 text-white dark:text-zinc-900
                          font-medium py-3 px-8 rounded-full shadow-lg transition-all duration-300 hover:scale-105"
             >
               Get started
-            </button>
+            </Link>
           </div>
         </div>
       </Button>

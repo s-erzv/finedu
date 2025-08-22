@@ -69,7 +69,7 @@ export default function Features() {
 ];
 
   return (
-    <section className="py-24 mt-20 bg-gray-50 dark:bg-gray-950 dark:text-white">
+    <section id="features" className="py-24 mt-20 bg-gray-50 dark:bg-gray-950 dark:text-white">
       <div className="container mx-auto px-6">
         <div className="text-center mb-16 max-w-5xl mx-auto">
           {/* Badge bisa disesuaikan jika perlu */}

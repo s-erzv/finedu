@@ -1,6 +1,7 @@
 import Squares from '../Squares/Squares';
 import Navbar from './Navbar';
 import Badge from '../Badge';
+import { Link } from 'react-router-dom';
 
 export default function Hero() {
   return (
@@ -52,12 +53,18 @@ export default function Hero() {
           and grow your money with interactive tools and bite-sized lessons.
         </p>
         <div className="mt-6 flex justify-center gap-4">
-          <button className="glass-button text-lg bg-gray-300/10 backdrop-blur-sm border border-white shadow-lg px-4 py-2 rounded-full transition-all duration-300 hover:scale-105 hover:bg-white/20 dark:border-gray-700 dark:text-white dark:hover:bg-gray-800/20">
+          <Link
+            to="/tools"
+            className="glass-button text-lg border border-white shadow-lg px-4 py-2 rounded-full transition-all duration-300 hover:scale-105 hover:bg-white/20 dark:border-gray-700 dark:text-white dark:hover:bg-gray-800/20"
+          >
             Explore Tools
-          </button>
-          <button className="text-black bg-white px-6 py-3 rounded-full font-medium text-lg transition-all duration-300 hover:bg-gray-200 hover:scale-105 hover:-translate-y-1 hover:shadow-xl dark:bg-gray-100 dark:hover:bg-gray-300">
+          </Link>
+          <Link
+            to="/lessons"
+            className="text-black bg-white px-6 py-3 rounded-full font-medium text-lg transition-all duration-300 hover:bg-gray-200 hover:scale-105 hover:-translate-y-1 hover:shadow-xl dark:bg-gray-100 dark:hover:bg-gray-300"
+          >
             Start Learning
-          </button>
+          </Link>
         </div>
       </div>
 
