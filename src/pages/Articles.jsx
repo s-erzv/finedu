@@ -3,7 +3,7 @@ import MainLayout from "../components/MainLayout";
 import { Link } from "react-router-dom";
 import { CircleNotch, WifiSlash, Newspaper, Calendar, UserCircle, MagnifyingGlass } from "@phosphor-icons/react";
 
-const NEWSAPI_KEY = "ad2e51ea0fbe41ba8bc65e1056a4ece3";
+const NEWSAPI_KEY = import.meta.env.VITE_NEWSAPI_KEY;
 
 export default function Articles() {
   const [articles, setArticles] = useState([]);
