@@ -1,0 +1,399 @@
+{
+  "lessons": [
+    {
+      "id": 1,
+      "title": "Budgeting Basics",
+      "description": "Master the fundamentals of creating and managing your personal budget effectively.",
+      "progress": "Completed",
+      "duration": "15 min",
+      "difficulty": "Beginner",
+      "rating": 4.8,
+      "students": 2340,
+      "icon": "Calculator",
+      "color": "from-green-500 to-emerald-600",
+      "bgColor": "from-green-500/10 to-emerald-500/10",
+      "category": "budgeting",
+      "sections": [
+        {
+          "heading": "What is Budgeting?",
+          "content": "Budgeting is the process of creating a plan to spend your money. This spending plan is called a budget. Creating this spending plan allows you to determine in advance whether you will have enough money to do the things you need to do or would like to do."
+        },
+        {
+          "heading": "The 50/30/20 Rule",
+          "content": "A popular budgeting method is the 50/30/20 rule, which suggests allocating your after-tax income into three categories: \n\n- 50% Needs: Essential expenses like rent, groceries, and utilities. \n- 30% Wants: Non-essential expenses like dining out, hobbies, and shopping. \n- 20% Savings & Debt: Financial goals like an emergency fund, retirement, and paying off debt."
+        },
+        {
+          "heading": "Zero-Based Budgeting",
+          "content": "Zero-based budgeting means your income minus your expenses equals zero. Every rupiah has a purpose before the month begins. This method ensures you're intentional with every expense and maximizes your financial efficiency."
+        },
+        {
+          "heading": "Tracking Your Expenses",
+          "content": "Monitor your spending for at least a month to understand your spending patterns. Use apps, spreadsheets, or a simple notebook. Categories to track include housing, transportation, food, utilities, entertainment, and miscellaneous expenses."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Smart Saving Strategies",
+      "description": "Discover proven techniques to save money without sacrificing your lifestyle.",
+      "progress": "In Progress",
+      "duration": "20 min",
+      "difficulty": "Beginner",
+      "rating": 4.9,
+      "students": 1876,
+      "icon": "PiggyBank",
+      "color": "from-blue-500 to-cyan-600",
+      "bgColor": "from-blue-500/10 to-cyan-500/10",
+      "category": "saving",
+      "sections": [
+        {
+          "heading": "Automate Your Savings",
+          "content": "One of the easiest ways to save is to make it automatic. Set up an automatic transfer from your checking account to your savings account for every payday. This way, you save money before you even have a chance to spend it."
+        },
+        {
+          "heading": "The Envelope System",
+          "content": "For cash-based spending, the envelope system is a great way to control your expenses. Label envelopes for different spending categories (e.g., 'Groceries,' 'Entertainment'). At the beginning of the month, put the allotted cash into each envelope. Once an envelope is empty, you're done spending in that category for the month."
+        },
+        {
+          "heading": "Emergency Fund Essentials",
+          "content": "An emergency fund should cover 3-6 months of living expenses. Start with a goal of Rp 1,000,000, then gradually build up. Keep this fund in a separate, easily accessible savings account. Use it only for true emergencies like job loss, medical bills, or major home repairs."
+        },
+        {
+          "heading": "High-Yield Savings Accounts",
+          "content": "Look for savings accounts that offer competitive interest rates. In Indonesia, consider deposito, tabungan berjangka, or high-yield savings from digital banks. Even small differences in interest rates can add up over time through compound growth."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Investment Fundamentals",
+      "description": "Learn the essential principles of investing and how to grow your wealth.",
+      "progress": "Not Started",
+      "duration": "25 min",
+      "difficulty": "Intermediate",
+      "rating": 4.7,
+      "students": 1523,
+      "icon": "TrendingUp",
+      "color": "from-purple-500 to-violet-600",
+      "bgColor": "from-purple-500/10 to-violet-500/10",
+      "category": "investing",
+      "sections": [
+        {
+          "heading": "Compound Interest",
+          "content": "Compound interest is the interest on a loan or deposit calculated based on both the initial principal and the accumulated interest from previous periods. It's often referred to as 'interest on interest' and is a powerful tool for growing wealth over time."
+        },
+        {
+          "heading": "Diversification",
+          "content": "Diversification is a risk management strategy that mixes a wide variety of investments within a portfolio. The idea is that a portfolio containing different kinds of assets will yield higher returns and pose a lower risk than any single investment found within the portfolio."
+        },
+        {
+          "heading": "Investment Options in Indonesia",
+          "content": "Popular investment vehicles include: Reksadana (Mutual Funds) - professionally managed, diversified portfolios; Saham (Stocks) - ownership shares in companies traded on IDX; Obligasi (Bonds) - government and corporate debt securities; Emas (Gold) - precious metal investment; Properti - real estate investment."
+        },
+        {
+          "heading": "Risk vs. Return",
+          "content": "Higher potential returns typically come with higher risk. Conservative investments like deposito offer lower returns but greater safety. Growth investments like stocks offer higher potential returns but with more volatility. Balance your portfolio based on your risk tolerance and time horizon."
+        },
+        {
+          "heading": "Dollar Cost Averaging",
+          "content": "Invest a fixed amount regularly regardless of market conditions. This strategy reduces the impact of market volatility and helps you buy more shares when prices are low and fewer when prices are high, potentially lowering your average cost per share over time."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Debt Management",
+      "description": "Effective strategies to pay off debts and maintain healthy financial habits.",
+      "progress": "Not Started",
+      "duration": "18 min",
+      "difficulty": "Beginner",
+      "rating": 4.6,
+      "students": 1234,
+      "icon": "Target",
+      "color": "from-orange-500 to-red-600",
+      "bgColor": "from-orange-500/10 to-red-500/10",
+      "category": "debt",
+      "sections": [
+        {
+          "heading": "Avalanche vs. Snowball Method",
+          "content": "When tackling multiple debts, two popular strategies are the Avalanche Method and the Snowball Method. The Avalanche Method prioritizes paying off the debt with the highest interest rate first, saving you the most money over time. The Snowball Method focuses on paying off the smallest debt first, providing a psychological win that can help maintain motivation."
+        },
+        {
+          "heading": "Understanding Interest Rates",
+          "content": "Know the difference between simple and compound interest on your debts. Credit cards typically use compound interest, making balances grow quickly if not paid off. Always pay more than the minimum payment to reduce the principal balance and save on interest charges."
+        },
+        {
+          "heading": "Debt Consolidation",
+          "content": "Debt consolidation involves combining multiple debts into a single loan, often with a lower interest rate. Options include personal loans, balance transfer credit cards, or refinancing. This can simplify payments and potentially reduce overall interest costs."
+        },
+        {
+          "heading": "Good Debt vs. Bad Debt",
+          "content": "Good debt helps build wealth or improve your financial position (mortgages, education loans, business loans). Bad debt is for consumption with no lasting value (credit card debt for luxury items, expensive car loans). Focus on eliminating bad debt first."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Financial Goal Setting",
+      "description": "Set and achieve your financial goals with proven methodologies.",
+      "progress": "Not Started",
+      "duration": "22 min",
+      "difficulty": "Beginner",
+      "rating": 4.8,
+      "students": 1654,
+      "icon": "Trophy",
+      "color": "from-amber-500 to-yellow-600",
+      "bgColor": "from-amber-500/10 to-yellow-500/10",
+      "category": "planning",
+      "sections": [
+        {
+          "heading": "SMART Goals",
+          "content": "A good financial goal should be Specific, Measurable, Achievable, Relevant, and Time-bound. For example, instead of 'I want to save money,' a SMART goal would be 'I will save Rp 5,000,000 for a down payment by the end of this year.'"
+        },
+        {
+          "heading": "Short-term vs. Long-term Goals",
+          "content": "Short-term goals (1 year or less): Emergency fund, vacation, small purchases. Medium-term goals (1-5 years): Car down payment, wedding, home renovation. Long-term goals (5+ years): Retirement, children's education, home ownership. Each requires different saving and investment strategies."
+        },
+        {
+          "heading": "Creating Action Plans",
+          "content": "Break down large financial goals into smaller, manageable steps. Calculate how much you need to save monthly to reach your goal. Identify what expenses you might need to cut or what additional income you might need to generate. Review and adjust your progress regularly."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Insurance and Protection",
+      "description": "Learn essential insurance strategies to protect your financial future.",
+      "progress": "Locked",
+      "duration": "24 min",
+      "difficulty": "Intermediate",
+      "rating": 4.6,
+      "students": 892,
+      "icon": "Shield",
+      "color": "from-emerald-500 to-teal-600",
+      "bgColor": "from-emerald-500/10 to-teal-500/10",
+      "category": "protection",
+      "sections": [
+        {
+          "heading": "Types of Insurance",
+          "content": "Essential insurance types include: Health Insurance - covers medical expenses; Life Insurance - provides for dependents after death; Disability Insurance - replaces income if unable to work; Property Insurance - protects your home and belongings; Vehicle Insurance - mandatory for vehicle owners in Indonesia."
+        },
+        {
+          "heading": "Insurance as Risk Management",
+          "content": "Insurance protects you from financial catastrophe. Calculate the potential financial impact of various risks (illness, disability, death, property damage) and ensure adequate coverage. The goal is to transfer risks you can't afford to bear while self-insuring smaller risks."
+        },
+        {
+          "heading": "BPJS and Private Insurance",
+          "content": "BPJS Kesehatan provides basic health coverage for all Indonesian citizens. Consider supplementing with private health insurance for better coverage, shorter wait times, and access to private hospitals. Evaluate the cost-benefit based on your health needs and budget."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Tax Planning",
+      "description": "Understanding tax implications and optimization strategies for Indonesian residents.",
+      "progress": "Locked",
+      "duration": "28 min",
+      "difficulty": "Intermediate",
+      "rating": 4.5,
+      "students": 743,
+      "icon": "DollarSign",
+      "color": "from-cyan-500 to-blue-600",
+      "bgColor": "from-cyan-500/10 to-blue-500/10",
+      "category": "planning",
+      "sections": [
+        {
+          "heading": "Understanding PPh 21",
+          "content": "PPh 21 is income tax withheld by employers from employee salaries. Understanding your tax bracket helps you plan your finances better. Indonesia uses a progressive tax system with rates ranging from 5% to 30% based on income levels."
+        },
+        {
+          "heading": "Tax Deductions and Credits",
+          "content": "Take advantage of available tax deductions: personal allowance (PTKP), dependent allowances, professional development costs, and donations to approved organizations. Proper tax planning can significantly reduce your tax burden legally."
+        },
+        {
+          "heading": "Tax-Advantaged Investments",
+          "content": "Some investments offer tax benefits: contributions to DPLK can reduce taxable income, certain government bonds may have tax incentives, and some investment products offer tax-efficient structures. Consult with a tax professional for personalized advice."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Retirement Planning",
+      "description": "Plan for your future with comprehensive retirement strategies tailored for Indonesia.",
+      "progress": "Locked",
+      "duration": "35 min",
+      "difficulty": "Advanced",
+      "rating": 4.7,
+      "students": 567,
+      "icon": "Award",
+      "color": "from-rose-500 to-pink-600",
+      "bgColor": "from-rose-500/10 to-pink-500/10",
+      "category": "planning",
+      "sections": [
+        {
+          "heading": "Starting Early Matters",
+          "content": "The earlier you start saving for retirement, the more time compound interest has to work in your favor. Someone who starts saving Rp 500,000 monthly at age 25 will have significantly more at retirement than someone who starts at age 35, even if the latter saves more per month."
+        },
+        {
+          "heading": "Retirement Savings Options",
+          "content": "In Indonesia, retirement savings options include: BPJS Ketenagakerjaan - mandatory for employees; Dana Pensiun - employer-sponsored pension funds; DPLK (Voluntary Pension Fund) - individual voluntary contributions; Personal investments - reksadana, saham, properti for retirement."
+        },
+        {
+          "heading": "Calculating Retirement Needs",
+          "content": "A common rule suggests you'll need 70-80% of your pre-retirement income to maintain your lifestyle. Consider inflation, healthcare costs, and life expectancy. Use retirement calculators to estimate how much you need to save monthly to reach your retirement income goal."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Credit and Credit Scores",
+      "description": "Master credit management and build a strong financial reputation.",
+      "progress": "Locked",
+      "duration": "22 min",
+      "difficulty": "Intermediate",
+      "rating": 4.4,
+      "students": 456,
+      "icon": "CreditCard",
+      "color": "from-violet-500 to-purple-600",
+      "bgColor": "from-violet-500/10 to-purple-500/10",
+      "category": "credit",
+      "sections": [
+        {
+          "heading": "Building Credit History",
+          "content": "In Indonesia, maintain a good credit history through BI Checking and SLIK OJK systems. Pay all credit obligations on time, keep credit utilization low, maintain old credit accounts, and monitor your credit report regularly for errors."
+        },
+        {
+          "heading": "Using Credit Wisely",
+          "content": "Credit cards can be useful financial tools when used responsibly. Pay the full balance each month to avoid interest, use rewards programs to your advantage, and never spend more than you can afford to pay back immediately."
+        },
+        {
+          "heading": "Improving Your Credit Score",
+          "content": "Pay all bills on time, keep credit card balances low (below 30% of credit limit), don't close old credit accounts, limit new credit applications, and diversify your credit types (credit cards, loans, etc.). Good credit opens doors to better loan terms and rates."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Financial Technology and Tools",
+      "description": "Leverage technology to optimize your financial management and growth.",
+      "progress": "Locked",
+      "duration": "26 min",
+      "difficulty": "Beginner",
+      "rating": 4.5,
+      "students": 678,
+      "icon": "Smartphone",
+      "color": "from-indigo-500 to-blue-600",
+      "bgColor": "from-indigo-500/10 to-blue-500/10",
+      "category": "technology",
+      "sections": [
+        {
+          "heading": "Budgeting Apps",
+          "content": "Leverage technology to manage your finances: Mint, YNAB for comprehensive budgeting; Local apps like Finansialku, Dompet Kilat for Indonesian users; Bank apps often include budgeting tools; Spreadsheet templates for those who prefer manual tracking."
+        },
+        {
+          "heading": "Investment Apps and Platforms",
+          "content": "Popular investment platforms in Indonesia include: Bibit, Bareksa for mutual funds; Stockbit, IPOT for stock trading; Tanamduit for goal-based investing; Ajaib for stocks and mutual funds. Always verify that platforms are registered with OJK."
+        },
+        {
+          "heading": "Digital Payment Security",
+          "content": "Protect your financial accounts: use strong, unique passwords; enable two-factor authentication; regularly monitor account statements; be cautious with public Wi-Fi for financial transactions; keep your apps updated; and report suspicious activities immediately."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Building Wealth",
+      "description": "Advanced strategies for long-term wealth accumulation and financial independence.",
+      "progress": "Locked",
+      "duration": "32 min",
+      "difficulty": "Advanced",
+      "rating": 4.8,
+      "students": 234,
+      "icon": "TrendingUp",
+      "color": "from-green-500 to-emerald-600",
+      "bgColor": "from-green-500/10 to-emerald-500/10",
+      "category": "wealth",
+      "sections": [
+        {
+          "heading": "Multiple Income Streams",
+          "content": "Don't rely solely on salary. Develop multiple income sources: side businesses, freelancing, rental income, dividend-paying investments, royalties, or part-time work. Multiple streams provide security and accelerate wealth building."
+        },
+        {
+          "heading": "The Power of Reinvestment",
+          "content": "Reinvest your investment returns rather than spending them. This accelerates compound growth significantly. For example, reinvesting dividends from stocks or returns from mutual funds can dramatically increase your long-term wealth accumulation."
+        },
+        {
+          "heading": "Net Worth Tracking",
+          "content": "Calculate your net worth regularly (assets minus liabilities). This gives you a complete picture of your financial health beyond just income and expenses. Track trends over time and set net worth goals alongside income and savings goals."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Financial Mistakes to Avoid",
+      "description": "Learn from common financial pitfalls and how to avoid them.",
+      "progress": "Locked",
+      "duration": "20 min",
+      "difficulty": "Beginner",
+      "rating": 4.6,
+      "students": 889,
+      "icon": "AlertTriangle",
+      "color": "from-red-500 to-orange-600",
+      "bgColor": "from-red-500/10 to-orange-500/10",
+      "category": "education",
+      "sections": [
+        {
+          "heading": "Common Budgeting Mistakes",
+          "content": "Avoid these pitfalls: not tracking expenses, being unrealistic about spending habits, forgetting irregular expenses (car maintenance, gifts), not adjusting the budget as circumstances change, and giving up too quickly when you overspend in a category."
+        },
+        {
+          "heading": "Investment Mistakes",
+          "content": "Common investment errors include: putting all money in one investment, trying to time the market, panic selling during market downturns, following hot tips without research, and not having a clear investment strategy or timeline."
+        },
+        {
+          "heading": "Lifestyle Inflation",
+          "content": "As income increases, avoid automatically increasing spending proportionally. Instead, maintain your standard of living and direct additional income toward savings and investments. This discipline is key to building long-term wealth."
+        }
+      ]
+    }
+  ],
+  "stats": [
+    { 
+      "label": "Total Lessons", 
+      "value": "12", 
+      "icon": "BookOpen", 
+      "color": "text-blue-600 dark:text-blue-400" 
+    },
+    { 
+      "label": "Completed", 
+      "value": "1", 
+      "icon": "CheckCircle", 
+      "color": "text-green-600 dark:text-green-400" 
+    },
+    { 
+      "label": "In Progress", 
+      "value": "1", 
+      "icon": "Play", 
+      "color": "text-yellow-600 dark:text-yellow-400" 
+    },
+    { 
+      "label": "Study Time", 
+      "value": "5.2h", 
+      "icon": "Clock", 
+      "color": "text-purple-600 dark:text-purple-400" 
+    }
+  ],
+  "categories": [
+    { "id": "all", "name": "All Topics", "count": 12 },
+    { "id": "budgeting", "name": "Budgeting", "count": 1 },
+    { "id": "saving", "name": "Saving", "count": 1 },
+    { "id": "investing", "name": "Investing", "count": 1 },
+    { "id": "debt", "name": "Debt", "count": 1 },
+    { "id": "planning", "name": "Planning", "count": 3 },
+    { "id": "protection", "name": "Protection", "count": 1 },
+    { "id": "credit", "name": "Credit", "count": 1 },
+    { "id": "technology", "name": "Technology", "count": 1 },
+    { "id": "wealth", "name": "Wealth", "count": 1 },
+    { "id": "education", "name": "Education", "count": 1 }
+  ]
+}
