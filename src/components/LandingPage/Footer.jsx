@@ -28,16 +28,6 @@ const FooterSection = () => {
             </ul>
           </div>
           
-          {/* Column 3: Resources */}
-          <div className="flex flex-col items-center md:items-start">
-            <h4 className="font-bold text-lg mb-4 text-gray-900 dark:text-gray-100">Resources</h4>
-            <ul className="space-y-2 text-gray-600 dark:text-gray-400">
-              <li><a href="#" className="hover:underline">Help & Support</a></li>
-              <li><a href="#" className="hover:underline">Privacy Policy</a></li>
-              <li><a href="#" className="hover:underline">Terms of Service</a></li>
-              <li><a href="#" className="hover:underline">FAQs</a></li>
-            </ul>
-          </div>
 
           {/* Column 4: Contact */}
           <div className="flex flex-col items-center md:items-start">

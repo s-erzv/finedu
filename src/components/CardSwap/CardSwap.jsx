@@ -197,7 +197,7 @@ const CardSwap = ({
   return (
     <div
       ref={container} 
-      className="max-[768px]:scale-[0.75] max-[480px]:scale-[0.55]"
+      className="max-[768px]:scale-[0.75]  max-w-sm md:max-[480px]:scale-[0.55]"
       style={{ width, height }}
     >
       {rendered}

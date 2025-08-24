@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 
 export default function Hero() {
   return (
-    <section className="relative m-4 flex flex-col items-center justify-center rounded-3xl text-center overflow-hidden">
+    <section className="relative m-4 flex flex-col items-center md:items-center justify-center rounded-3xl text-left md:text-center overflow-hidden">
       <div className="absolute top-0 left-0 right-0 z-50">
         <Navbar />
       </div>
@@ -43,16 +43,16 @@ export default function Hero() {
         />
       </div>
 
-      <div className="relative z-10 flex flex-col items-center justify-center py-12 mt-14">
+      <div className="relative z-10 px-6 flex flex-col items-start md:items-center justify-center py-12 mt-14">
         <Badge icon="💡" text="Smart Finance, Made Simple" />
-        <h1 className="text-5xl md:text-6xl font-bold mt-8 leading-tight dark:text-white">
+        <h1 className="text-4xl md:text-6xl font-bold mt-8 leading-tight dark:text-white">
           Take Control of Your Money, <br /> One Lesson at a Time
         </h1>
         <p className="max-w-2xl mx-auto mt-4 text-gray-700 text-lg dark:text-gray-300">
           Finedu makes personal finance easy for students — plan smarter, save faster,
           and grow your money with interactive tools and bite-sized lessons.
         </p>
-        <div className="mt-6 flex justify-center gap-4">
+        <div className="mt-6 flex justify-start md:justify-center w-full gap-4">
           <Link
             to="/tools"
             className="glass-button text-lg border border-white shadow-lg px-4 py-2 rounded-full transition-all duration-300 hover:scale-105 hover:bg-white/20 dark:border-gray-700 dark:text-white dark:hover:bg-gray-800/20"
@@ -68,18 +68,16 @@ export default function Hero() {
         </div>
       </div>
 
-      <div className="relative z-10">
+      <div className="relative z-10 justify-center items-center">
         <img
           src="/hero.svg"
           alt="Finedu App Hero"
-          className="block dark:hidden mx-auto transition-transform duration-500 hover:scale-105"
-          style={{ width: '100%', maxWidth: '900px' }}
+          className="block dark:hidden mx-auto transition-transform duration-500 hover:scale-105 max-w-xs sm:max-w-md md:max-w-3xl"
         />
         <img
           src="/hero-.svg"
           alt="Finedu App Hero"
-          className="dark:block hidden mx-auto transition-transform duration-500 hover:scale-105"
-          style={{ width: '100%', maxWidth: '900px' }}
+          className="dark:block hidden mx-auto transition-transform duration-500 hover:scale-105 max-w-xs sm:max-w-md md:max-w-3xl"
         />
       </div>
     </section>

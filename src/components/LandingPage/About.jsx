@@ -40,7 +40,7 @@ export default function About() {
         </div>
 
         <div className="flex items-center justify-center relative min-h-[600px] lg:min-h-[500px]">
-          <div className="relative w-full max-w-md mt-40">
+          <div className="relative w-full max-w-[370px] md:max-w-md mt-40">
             <div className="absolute inset-0 bg-gradient-to-br from-purple-200/20 to-indigo-200/20 rounded-full blur-3xl transform scale-150
                     dark:from-purple-500/20 dark:to-indigo-500/20"></div>
 
@@ -50,7 +50,7 @@ export default function About() {
               delay={4000}
             >
               {/* Card 1: Budgeting */}
-              <Card className="bg-gradient-to-br from-purple-200 via-purple-300 to-indigo-300 text-gray-800 rounded-3xl p-8 shadow-xl w-64 h-64 flex flex-col justify-center text-left backdrop-blur-sm border border-white/20
+              <Card className="bg-gradient-to-br from-purple-200 via-purple-300 to-indigo-300 text-gray-800 rounded-3xl p-8 shadow-xl w-[250px] h-[250px] sm:w-64 sm:h-64 flex flex-col justify-center text-left backdrop-blur-sm border border-white/20
                       dark:bg-gradient-to-br dark:from-blue-900/40 dark:via-blue-800/40 dark:to-indigo-800/40 dark:backdrop-blur-lg dark:text-gray-200 dark:border-white/20">
                 <div className="bg-purple-500/20 backdrop-blur-sm p-3 rounded-full mb-4 shadow-lg w-fit dark:bg-blue-500/30">
                   <FaMoneyBillWave size={24} className="text-white" />
@@ -62,7 +62,7 @@ export default function About() {
               </Card>
 
               {/* Card 2: Saving */}
-              <Card className="bg-gradient-to-br from-pink-200 via-rose-200 to-pink-300 text-gray-800 rounded-3xl p-8 shadow-xl w-64 h-64 flex flex-col justify-center text-left backdrop-blur-sm border border-white/20
+              <Card className="bg-gradient-to-br from-pink-200 via-rose-200 to-pink-300 text-gray-800 rounded-3xl p-8 shadow-xl w-[250px] h-[250px] sm:w-64 sm:h-64 flex flex-col justify-center text-left backdrop-blur-sm border border-white/20
                       dark:bg-gradient-to-br dark:from-sky-900/40 dark:via-cyan-800/40 dark:to-blue-800/40 dark:backdrop-blur-lg dark:text-gray-200 dark:border-white/20">
                 <div className="bg-pink-500/20 backdrop-blur-sm p-3 rounded-full mb-4 shadow-lg w-fit dark:bg-sky-500/30">
                   <FaPiggyBank size={24} className="text-white" />
@@ -74,7 +74,7 @@ export default function About() {
               </Card>
 
               {/* Card 3: Investing */}
-              <Card className="bg-gradient-to-br from-violet-200 via-purple-200 to-pink-200 text-gray-800 rounded-3xl p-8 shadow-xl w-64 h-64 flex flex-col justify-center text-left backdrop-blur-sm border border-white/20
+              <Card className="bg-gradient-to-br from-violet-200 via-purple-200 to-pink-200 text-gray-800 rounded-3xl p-8 shadow-xl w-[250px] h-[250px] sm:w-64 sm:h-64 flex flex-col justify-center text-left backdrop-blur-sm border border-white/20
                       dark:bg-gradient-to-br dark:from-indigo-900/40 dark:via-blue-800/40 dark:to-indigo-800/40 dark:backdrop-blur-lg dark:text-gray-200 dark:border-white/20">
                 <div className="bg-violet-500/20 backdrop-blur-sm p-3 rounded-full mb-4 shadow-lg w-fit dark:bg-indigo-500/30">
                   <FaChartLine size={24} className="text-white" />
