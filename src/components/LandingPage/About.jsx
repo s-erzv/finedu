@@ -4,7 +4,7 @@ import Badge from '../Badge';
 
 export default function About() {
   return (
-    <section className="py-20 mt-16 bg-gradient-to-b from-white via-purple-50/30 to-white dark:from-gray-950 dark:via-gray-900/30 dark:to-gray-950">
+    <section id="about" className="py-20 mt-16 bg-gradient-to-b from-white via-purple-50/30 to-white dark:from-gray-950 dark:via-gray-900/30 dark:to-gray-950">
       <div className="container mx-auto grid lg:grid-cols-2 gap-16 items-center px-6 max-w-7xl">
 
         <div className="text-left space-y-6">

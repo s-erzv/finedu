@@ -12,7 +12,7 @@ import Badge from '../Badge';
 
 const FeatureCard = ({ icon: Icon, title, description }) => {
   return (
-    <div className="group relative p-8 rounded-3xl transition-all duration-300 ease-in-out transform border border-gray-200 bg-white shadow-sm hover:shadow-xl hover:scale-[1.02] overflow-hidden
+    <div id="features" className="group relative p-8 rounded-3xl transition-all duration-300 ease-in-out transform border border-gray-200 bg-white shadow-sm hover:shadow-xl hover:scale-[1.02] overflow-hidden
                 dark:border-gray-700 dark:bg-gray-900 dark:shadow-xl dark:hover:shadow-2xl">
       <div className="absolute top-0 left-0 w-24 h-24 rounded-br-[4rem] opacity-30 blur-3xl bg-gradient-to-br from-indigo-200 to-purple-200
                 dark:from-indigo-500 dark:to-purple-600"></div>

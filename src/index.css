@@ -5,6 +5,10 @@
 @tailwind components;
 @tailwind utilities;
 
+html {
+    scroll-behavior: smooth;
+}
+
 :root {
       --primary: #B6A2F7;
       --secondary: #E89FBD;

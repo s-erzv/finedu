@@ -4,7 +4,7 @@ import { Button } from '../ui/moving-border';
 
 const CTASection = ({ setPage }) => {
   return (
-    <section className="flex justify-center items-center px-4">
+    <section id="cta" className="flex justify-center items-center px-4">
       <Button borderRadius="1.75rem" className="w-[85vw] text-left px-6 py-12 transition-all duration-300
         bg-gray-100/50 text-gray-800 border border-gray-200
         hover:bg-gray-200/50
